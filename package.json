@@ -1,0 +1,27 @@
+{
+  "name": "eth-watch-keyring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RabbyHub/eth-watch-keyring.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RabbyHub/eth-watch-keyring/issues"
+  },
+  "homepage": "https://github.com/RabbyHub/eth-watch-keyring#readme",
+  "dependencies": {
+    "ethereumjs-util": "^7.1.3",
+    "events": "^3.3.0",
+    "web3-utils": "^1.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
