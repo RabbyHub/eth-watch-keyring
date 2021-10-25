@@ -1,5 +1,5 @@
 {
-  "name": "eth-watch-keyring",
+  "name": "@rabby-wallet/eth-watch-keyring",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
